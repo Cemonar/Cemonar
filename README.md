@@ -1,4 +1,4 @@
-👋 ##Buenas tardes
+ ##Buenas tardes 👋
 **esta es mi presentacion**
 - Mi nombre es Carlos Montoya 
 - Estoy en la ficha 3236084
